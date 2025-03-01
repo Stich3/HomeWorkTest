@@ -1,4 +1,4 @@
-Сайт https://stich3.github.io/HomeWorkTest/
+Сайт https://stich3.github.io/HomeWorkTest/ Або https://homeworktest.onrender.com/
 .
 .
 .
