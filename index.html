@@ -94,7 +94,7 @@
     let tasks = [];
 
     async function loadData() {
-        const response = await fetch("https://4e71-185-204-68-95.ngrok-free.app/data"); //Тут Вставити силку на сам сайт
+        const response = await fetch('https://HomeWorkTest.onrender.com/data'); //Тут Вставити силку на сам сайт
         tasks = await response.json();
         renderTables();
     }
