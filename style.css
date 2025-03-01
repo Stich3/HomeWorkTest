@@ -1,0 +1,38 @@
+/* Основні стилі */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: #121212; /* Чорний фон */
+    color: #ffffff; /* Білий текст */
+}
+
+/* Таблиці */
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #1e1e1e; /* Темний фон таблиці */
+}
+
+th, td {
+    border: 1px solid #ffffff;
+    padding: 10px;
+    text-align: center;
+}
+
+
+th {
+    background-color: #333333; /* Темний заголовок таблиці */
+}
+
+/* Кнопки */
+button {
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: #ffffff13;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
