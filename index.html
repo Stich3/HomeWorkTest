@@ -133,7 +133,7 @@
     }
 
     async function saveData() {
-        await fetch('http://localhost:3000/update', {
+        await fetch('https://homeworktest.onrender.com/update', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(tasks)
